@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :- Where the stars lives
 
